@@ -1,4 +1,4 @@
-# Calculadora IMC
+# Calculadora de Salario.
 Desc
 
 ## :camera_flash: Screenshots
